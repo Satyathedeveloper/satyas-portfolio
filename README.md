@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Satya Prasad Aripaka: Portfolio (React + TypeScript + Vite)
 
     npm install        # install dependencies
@@ -16,3 +17,6 @@ When you have a domain, add a canonical link in `index.html` and a Sitemap line 
 
 ## What is Vite?
 Vite is only the tool that runs your site locally (`npm run dev`) and bundles it for hosting (`npm run build`). Your code is React + TypeScript + plain CSS. You only need these commands: `npm install` (once), `npm run dev`, `npm run build`.
+=======
+# satyas-portfolio
+>>>>>>> origin/main
